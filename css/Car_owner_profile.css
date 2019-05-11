@@ -1,0 +1,253 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,600,400italic);
+body
+{
+    margin: 0px;
+    font-family:sans-serif
+}
+.bar
+{
+    background-color: black;
+    height:80px;
+}
+.bar div
+{
+    width:90%;
+    margin: auto
+}
+.container .bar div img
+{
+    float:left;
+    margin-top: 15px
+}
+.container .bar nav
+{
+    float:right;
+    margin:30px auto
+}
+.container .bar a
+{
+    text-decoration: none;
+    margin-left:20px;
+    color:antiquewhite
+}
+.bdy
+{
+    height:1800px;
+    margin: auto
+}
+.bdy1
+{
+    height: 100px;
+}
+.bdy1 div,.bdy2 div,.bdy3 div,.bdy4 .bd4
+{
+    width:90%;
+    margin:auto;
+}
+.bdy1  input
+{
+    float:right;
+    border-radius: 15px;
+    width:240px;
+    margin-top:35px;
+    height:25px;
+    margin-left: 500px;
+}
+.bdy2
+{
+    height: 250px;
+    background-color: lightgrey;
+}
+.bdy2   img
+{
+    border-radius:50%;
+    width:140px;
+    height:140px;
+    border:3px solid black;
+    margin-top: 50px;
+    margin-right: 20px;
+}
+.bdy2 .d1 div
+{
+    display:inline-block;
+    margin-top:100px;
+    vertical-align: top
+}
+.bdy2 .hire
+{
+    float:right;
+    padding:15px;
+    width:200px;
+    background-color:green;
+    color:antiquewhite;
+    border: 0px;
+    border-radius:15px;
+    font-size:20px;
+    margin-top: 150px;
+}
+.bdy2 .hire:hover
+{
+    background-color: forestgreen
+}
+.bdy2 .edit
+{
+    float:right;
+    padding:15px;
+    width:200px;
+    background-color:black;
+    color:antiquewhite;
+    border: 0px;
+    border-radius:15px;
+    font-size:20px;
+    margin-top: 150px;
+    display: none
+}
+.bdy2 .edit:hover
+{
+    background-color: darkgray
+}
+.bdy3
+{
+    background-color: black;
+    height:80px;
+    text-align: left;  
+}
+.bdy3 a
+{
+    position:relative;
+    text-decoration: none;
+    font-size: 25px;
+    color:antiquewhite;
+    top:25px;
+    margin-right:40px;
+}
+.bdy3 a:hover
+{
+    color:#f79100;
+}
+.bdy4
+{
+    margin-top: 30px;
+}
+.bd4 .b4
+{
+    width:90%;
+    float:right;
+    height:auto;
+}
+.b4 .line,.b4 .info
+{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 8px;
+}
+.b4 .info
+{
+    text-align: center
+}
+.b4 .info h2
+{
+    margin-top: 4px;
+}
+.bdy4 .line
+{
+    width:5px;
+    height: 200px;
+    background-color: black;
+}
+.bdy4 .b4 img
+{
+    float:right;
+    height: 200px;
+}
+
+.bdyy4
+{
+    margin-top: 30px;
+    width: 90%;
+    margin: auto;
+    display: none
+}
+.bdyy4 h2
+{
+    display: inline-block
+}
+.bdyy4 button
+{
+    float:right;
+    padding:15px;
+    width:200px;
+    background-color:black;
+    color:antiquewhite;
+    border: 0px;
+    border-radius:15px;
+    font-size:20px;
+    margin-top: 10px;
+}
+.d11,.d2,.d3,.d4{padding-bottom: 20px;text-align: center;padding-top:30px}
+.bdyy4 div img
+{
+    width:250px;
+    height:250px;
+}
+.x{margin-right:65px}
+
+
+
+.personal_info
+{
+    padding:0px;
+    margin-top: 50px;
+}
+.personal_info h2
+{
+    width: 120px;
+    margin: 0px;
+    display: inline-block
+}
+.personal_info p
+{
+    font-weight:100;
+    font-size:20px;
+    margin: 0px;
+    display: inline-block;
+}
+.personal_info b
+{
+    padding-right: 30px;
+}
+.foot
+{
+    background-color:black;
+    height:auto;
+    padding:15px;
+}
+.foot .foot1
+{
+    width:90%;
+    margin:auto
+}
+.foot .foot1 div
+{
+    width:32%;
+    display:inline-block;
+    vertical-align: top
+}
+.foot .rig
+{
+    float:right;
+    text-align:right;
+}
+.foot .cent
+{
+    text-align: center
+}
+.foot .cent div
+{
+    width:25px;
+    border-radius:10px;
+}
+.foot font
+{
+    font-weight: bold
+}

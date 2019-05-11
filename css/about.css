@@ -1,0 +1,117 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,600,400italic);
+body
+{
+    margin: 0px;
+    font-family:sans-serif
+}
+.container
+{
+    margin:0px;
+}
+.bar
+{
+    background-color: black;
+    height:80px;
+}
+.bar div
+{
+    width:90%;
+    margin: auto
+}
+.container .bar div img
+{
+    float:left;
+    margin-top: 15px
+}
+.container .bar nav
+{
+    float:right;
+    margin:30px auto
+}
+.container .bar a
+{
+    text-decoration: none;
+    margin-left:20px;
+    color:antiquewhite
+}
+.bdy
+{
+    height:1800px;
+    margin: auto
+}
+.bdy1
+{
+    width:90%;
+    margin: auto;
+    padding-top: 20px;
+    height:150px;
+}
+.bdy1  a img
+{
+    border-radius:50px;
+    width:70px;
+    height:70px;
+    vertical-align: middle;
+}
+.bdy1  a
+{
+    text-decoration: none;
+    color:black;
+}
+.bdy1  .logout
+{
+    margin-left:20px
+}
+.bdy1  input
+{
+    float:right;
+    border-radius: 15px;
+    width:240px;
+    margin-top:20px;
+    height:25px;
+    padding-left: 5px
+}
+.bdy2
+{
+    width: 90%;
+    margin: auto
+}
+.bdy2 p
+{
+    font-size:20px
+}
+.foot
+{
+    background-color:black;
+    height:auto;
+    padding:15px;
+}
+.foot .foot1
+{
+    width:90%;
+    margin:auto
+}
+.foot .foot1 div
+{
+    width:32%;
+    display:inline-block;
+    vertical-align: top
+}
+.foot .rig
+{
+    float:right;
+    text-align:right;
+}
+.foot .cent
+{
+    text-align: center
+}
+.foot .cent div
+{
+    width:25px;
+ border-radius:10px;
+}
+.foot font
+{
+    font-weight: bold
+}
